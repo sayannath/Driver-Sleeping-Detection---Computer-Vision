@@ -28,6 +28,7 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 * Make sure to check for available issues before raising one
 * Give me a maximum of 24-48 hours to respond
 * Have proper documentation on the parts you are changing/adding
+* Do not change some whitespaces or not give invalid information.
 
 
 ## Developed & Maintained by
